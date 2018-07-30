@@ -1,3 +1,2 @@
 # css-shapes
-# Demo Link
- http://kawsarhossain.com/
+Demo Link - http://kawsarhossain.com/
